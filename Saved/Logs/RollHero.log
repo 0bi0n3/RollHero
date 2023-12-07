@@ -725,3 +725,277 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.12.07-17.16.53:741][508]LogSlate: Window 'Editor Preferences' being destroyed
 [2023.12.07-17.16.53:745][508]LogSlate: Window 'Editor Preferences' being destroyed
 [2023.12.07-17.17.12:067][ 97]LogSlate: Window 'Source Control Login' being destroyed
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Bridge/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/FX/Niagara/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:025][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.24.37:109][918]EditorErrors: Warning: No assets to check in!
+[2023.12.07-17.25.18:449][514]LogViewport: Scene viewport resized to 750x855, mode Windowed.
+[2023.12.07-17.25.28:753][ 11]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.12.07-17.25.28:827][ 11]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.12.07-17.25.29:274][ 14]SourceControl: fatal: /Script: '/Script' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.26.04:030][660]SourceControl: fatal: /Script: '/Script' is outside repository at 'G:/GameDev/RollHero'
+[2023.12.07-17.27.08:887][903]LogSlate: Window 'Project Settings' being destroyed
+[2023.12.07-17.27.08:892][903]LogSlate: Window 'Project Settings' being destroyed
+[2023.12.07-17.27.11:773][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.12.07-17.27.38:586][985]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BallPawn2.BallPawn2
+[2023.12.07-17.27.38:587][985]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-17.27.39:449][985]LogSlate: Took 0.000687 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.12.07-17.27.44:467][281]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-17.27.44:467][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-17.27.45:520][337]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BallPawn.BallPawn
+[2023.12.07-17.27.45:520][337]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-17.28.44:887][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.12.07-17.28.44:888][147]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/myMaps/level_1' took 0.024
+[2023.12.07-17.28.44:889][147]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BallPawn] ([2] browsable assets)...
+[2023.12.07-17.28.44:925][147]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BallPawn.BallPawn]
+[2023.12.07-17.28.44:925][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BallPawn]
+[2023.12.07-17.28.44:925][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BallPawn" FILE="G:/GameDev/RollHero/Saved/Autosaves/Game/Blueprints/BallPawn_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.12.07-17.28.44:931][147]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004711 seconds
+[2023.12.07-17.28.44:939][147]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BallPawn_Auto1
+[2023.12.07-17.28.44:940][147]LogSavePackage: Moving 'G:/GameDev/RollHero/Saved/BallPawn_Auto1329D16C74EC4C5817B5520A2FA297EDA.tmp' to 'G:/GameDev/RollHero/Saved/Autosaves/Game/Blueprints/BallPawn_Auto1.uasset'
+[2023.12.07-17.28.44:941][147]LogFileHelpers: Auto-saving content packages took 0.052
+[2023.12.07-17.30.41:143][160]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.12.07-17.30.41:151][160]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.07-17.31.07:883][606]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.07-17.32.47:850][357]LogSlate: Took 0.000692 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.12.07-17.32.52:248][620]BlueprintLog: New page: Compile BallPawn
+[2023.12.07-17.32.52:298][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.12.07-17.33.20:748][323]BlueprintLog: New page: Compile BallPawn
+[2023.12.07-17.33.20:787][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.12.07-17.33.23:110][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BallPawn" FILE="G:/GameDev/RollHero/Content/Blueprints/BallPawn.uasset" SILENT=true
+[2023.12.07-17.33.23:116][450]LogSavePackage: Moving output files for package: /Game/Blueprints/BallPawn
+[2023.12.07-17.33.23:116][450]LogSavePackage: Moving 'G:/GameDev/RollHero/Saved/BallPawnDB705E004CF4C2BF242D8D9DD94C4D0E.tmp' to 'G:/GameDev/RollHero/Content/Blueprints/BallPawn.uasset'
+[2023.12.07-17.33.23:128][450]AssetCheck: New page: Asset Save: BallPawn
+[2023.12.07-17.33.23:128][450]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BallPawn.BallPawn
+[2023.12.07-17.33.27:431][700]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-17.33.27:441][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-17.33.27:449][700]PIE: New page: PIE session: level_1 (7 Dec 2023, 17:33:27)
+[2023.12.07-17.33.27:452][700]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.12.07-17.33.27:452][700]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.12.07-17.33.27:454][700]LogPlayLevel: Creating play world package: /Game/myMaps/UEDPIE_0_level_1
+[2023.12.07-17.33.27:458][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005231s)
+[2023.12.07-17.33.27:459][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myMaps/level_1.level_1 to /Game/myMaps/UEDPIE_0_level_1.level_1 (0.005741s)
+[2023.12.07-17.33.27:459][700]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.12.07-17.33.27:459][700]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-17.33.27:459][700]LogAIModule: Creating AISystem for world level_1
+[2023.12.07-17.33.27:459][700]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2023.12.07-17.33.27:482][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.12.07-17.33.27:485][700]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.12.07-17.33.27:485][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-17.33.27:485][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-17.33.27:485][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-17.33.27:485][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-17.33.27:485][700]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.07-17.33.27:485][700]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-17.33.27:485][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.07-17.33.27:485][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-17.33.27:485][700]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-17.33.27:485][700]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-17.33.27:485][700]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-17.33.27:487][700]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-17.33.27:516][700]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2023.12.07-17.33.27:517][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-17.33.27:517][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-17.33.27:517][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-17.33.27:517][700]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.12.07-17.33.27:517][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.12.07-17.33.27:519][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.12.07-17.33.27:519][700]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.12.07-17.33.27:519][700]LogInit: FAudioDevice initialized.
+[2023.12.07-17.33.27:519][700]LogAudio: Display: Audio Device (ID: 2) registered with world 'level_1'.
+[2023.12.07-17.33.27:533][700]LogLoad: Game class is 'GameModeBase'
+[2023.12.07-17.33.27:534][700]LogWorld: Bringing World /Game/myMaps/UEDPIE_0_level_1.level_1 up for play (max tick rate 60) at 2023.12.07-17.33.27
+[2023.12.07-17.33.27:542][700]LogWorld: Bringing up level for play took: 0.008968
+[2023.12.07-17.33.27:545][700]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2023.12.07-17.33.27:573][700]PIE: Server logged in
+[2023.12.07-17.33.27:575][700]PIE: Play in editor total start time 0.138 seconds.
+[2023.12.07-17.33.36:827][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-17.33.36:827][228]LogWorld: BeginTearingDown for /Game/myMaps/UEDPIE_0_level_1
+[2023.12.07-17.33.36:827][228]LogWorld: UWorld::CleanupWorld for level_1, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-17.33.36:827][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-17.33.36:839][228]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-17.33.36:843][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-17.33.36:875][228]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-17.33.36:875][228]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.12.07-17.33.36:877][228]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.12.07-17.33.36:880][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-17.33.36:895][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.12.07-17.33.36:935][229]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.12.07-17.33.42:859][582]LogViewport: Scene viewport resized to 296x337, mode Windowed.
+[2023.12.07-17.34.18:750][653]BlueprintLog: New page: Compile BallPawn
+[2023.12.07-17.34.18:812][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.12.07-17.34.19:517][692]LogViewport: Scene viewport resized to 296x337, mode Windowed.
+[2023.12.07-17.34.21:157][778]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-17.34.21:167][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-17.34.21:167][778]PIE: New page: PIE session: level_1 (7 Dec 2023, 17:34:21)
+[2023.12.07-17.34.21:168][778]LogPlayLevel: Creating play world package: /Game/myMaps/UEDPIE_0_level_1
+[2023.12.07-17.34.21:171][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003154s)
+[2023.12.07-17.34.21:171][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myMaps/level_1.level_1 to /Game/myMaps/UEDPIE_0_level_1.level_1 (0.003216s)
+[2023.12.07-17.34.21:171][778]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.12.07-17.34.21:171][778]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-17.34.21:171][778]LogAIModule: Creating AISystem for world level_1
+[2023.12.07-17.34.21:172][778]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2023.12.07-17.34.21:197][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.12.07-17.34.21:200][778]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.12.07-17.34.21:200][778]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-17.34.21:200][778]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-17.34.21:200][778]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-17.34.21:200][778]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-17.34.21:200][778]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.07-17.34.21:200][778]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-17.34.21:200][778]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.07-17.34.21:200][778]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-17.34.21:200][778]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-17.34.21:200][778]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-17.34.21:200][778]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-17.34.21:202][778]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-17.34.21:230][778]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2023.12.07-17.34.21:230][778]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-17.34.21:230][778]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-17.34.21:230][778]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-17.34.21:231][778]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.12.07-17.34.21:231][778]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.12.07-17.34.21:232][778]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.12.07-17.34.21:232][778]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.12.07-17.34.21:232][778]LogInit: FAudioDevice initialized.
+[2023.12.07-17.34.21:232][778]LogAudio: Display: Audio Device (ID: 3) registered with world 'level_1'.
+[2023.12.07-17.34.21:248][778]LogLoad: Game class is 'GameModeBase'
+[2023.12.07-17.34.21:248][778]LogWorld: Bringing World /Game/myMaps/UEDPIE_0_level_1.level_1 up for play (max tick rate 60) at 2023.12.07-17.34.21
+[2023.12.07-17.34.21:248][778]LogWorld: Bringing up level for play took: 0.000818
+[2023.12.07-17.34.21:250][778]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.12.07-17.34.21:250][778]PIE: Server logged in
+[2023.12.07-17.34.21:251][778]PIE: Play in editor total start time 0.089 seconds.
+[2023.12.07-17.34.37:745][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-17.34.37:745][763]LogWorld: BeginTearingDown for /Game/myMaps/UEDPIE_0_level_1
+[2023.12.07-17.34.37:745][763]LogWorld: UWorld::CleanupWorld for level_1, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-17.34.37:745][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-17.34.37:757][763]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-17.34.37:761][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-17.34.37:787][763]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-17.34.37:787][763]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.12.07-17.34.37:789][763]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.12.07-17.34.37:792][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-17.34.37:794][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.12.07-17.34.37:829][764]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.12.07-17.34.37:853][764]LogViewport: Scene viewport resized to 296x337, mode Windowed.
+[2023.12.07-17.35.43:749][432]BlueprintLog: New page: Compile BallPawn
+[2023.12.07-17.35.43:812][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.12.07-17.37.15:116][885]BlueprintLog: New page: Compile BallPawn
+[2023.12.07-17.37.15:165][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.12.07-17.39.52:020][878]BlueprintLog: New page: Compile BallPawn
+[2023.12.07-17.39.52:071][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.12.07-17.39.53:324][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BallPawn" FILE="G:/GameDev/RollHero/Content/Blueprints/BallPawn.uasset" SILENT=true
+[2023.12.07-17.39.53:332][940]LogSavePackage: Moving output files for package: /Game/Blueprints/BallPawn
+[2023.12.07-17.39.53:332][940]LogSavePackage: Moving 'G:/GameDev/RollHero/Saved/BallPawnB41D98954C95F4BFC47293B1E3C042C1.tmp' to 'G:/GameDev/RollHero/Content/Blueprints/BallPawn.uasset'
+[2023.12.07-17.39.53:343][940]AssetCheck: New page: Asset Save: BallPawn
+[2023.12.07-17.39.53:343][940]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BallPawn.BallPawn
+[2023.12.07-17.39.54:009][980]LogViewport: Scene viewport resized to 801x855, mode Windowed.
+[2023.12.07-17.39.54:034][981]LogViewport: Scene viewport resized to 316x337, mode Windowed.
+[2023.12.07-17.39.56:691][130]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-17.39.56:696][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-17.39.56:696][130]PIE: New page: PIE session: level_1 (7 Dec 2023, 17:39:56)
+[2023.12.07-17.39.56:696][130]LogPlayLevel: Creating play world package: /Game/myMaps/UEDPIE_0_level_1
+[2023.12.07-17.39.56:699][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003110s)
+[2023.12.07-17.39.56:699][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myMaps/level_1.level_1 to /Game/myMaps/UEDPIE_0_level_1.level_1 (0.003166s)
+[2023.12.07-17.39.56:699][130]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.12.07-17.39.56:699][130]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-17.39.56:700][130]LogAIModule: Creating AISystem for world level_1
+[2023.12.07-17.39.56:700][130]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2023.12.07-17.39.56:727][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.12.07-17.39.56:731][130]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.12.07-17.39.56:731][130]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-17.39.56:731][130]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-17.39.56:731][130]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-17.39.56:731][130]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-17.39.56:731][130]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.07-17.39.56:731][130]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-17.39.56:731][130]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.07-17.39.56:731][130]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-17.39.56:731][130]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-17.39.56:731][130]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-17.39.56:731][130]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-17.39.56:733][130]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-17.39.56:760][130]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2023.12.07-17.39.56:761][130]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-17.39.56:761][130]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-17.39.56:761][130]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-17.39.56:762][130]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.12.07-17.39.56:762][130]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.12.07-17.39.56:763][130]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.12.07-17.39.56:763][130]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.12.07-17.39.56:763][130]LogInit: FAudioDevice initialized.
+[2023.12.07-17.39.56:763][130]LogAudio: Display: Audio Device (ID: 4) registered with world 'level_1'.
+[2023.12.07-17.39.56:774][130]LogLoad: Game class is 'GameModeBase'
+[2023.12.07-17.39.56:775][130]LogWorld: Bringing World /Game/myMaps/UEDPIE_0_level_1.level_1 up for play (max tick rate 60) at 2023.12.07-17.39.56
+[2023.12.07-17.39.56:775][130]LogWorld: Bringing up level for play took: 0.000771
+[2023.12.07-17.39.56:776][130]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.12.07-17.39.56:777][130]PIE: Server logged in
+[2023.12.07-17.39.56:778][130]PIE: Play in editor total start time 0.082 seconds.
+[2023.12.07-17.40.11:982][ 39]LogBlueprintUserMessages: [level_C_1] Fail!
+[2023.12.07-17.40.12:525][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-17.40.12:525][ 70]LogWorld: BeginTearingDown for /Game/myMaps/UEDPIE_0_level_1
+[2023.12.07-17.40.12:525][ 70]LogWorld: UWorld::CleanupWorld for level_1, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-17.40.12:525][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-17.40.12:544][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-17.40.12:548][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-17.40.12:574][ 70]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-17.40.12:574][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.12.07-17.40.12:576][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.12.07-17.40.12:578][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-17.40.12:581][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.12.07-17.40.12:618][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.12.07-17.40.12:625][ 71]LogViewport: Scene viewport resized to 316x337, mode Windowed.
+[2023.12.07-17.40.15:026][212]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.12.07-17.40.45:180][ 12]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.12.07-17.40.45:188][ 12]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.07-17.40.47:204][133]BlueprintLog: New page: Compile BallPawn
+[2023.12.07-17.40.47:269][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.12.07-17.40.48:041][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BallPawn" FILE="G:/GameDev/RollHero/Content/Blueprints/BallPawn.uasset" SILENT=true
+[2023.12.07-17.40.48:048][168]LogSavePackage: Moving output files for package: /Game/Blueprints/BallPawn
+[2023.12.07-17.40.48:049][168]LogSavePackage: Moving 'G:/GameDev/RollHero/Saved/BallPawn5A2D041F47E4E3BA36F796A94EF594EA.tmp' to 'G:/GameDev/RollHero/Content/Blueprints/BallPawn.uasset'
+[2023.12.07-17.40.48:061][168]AssetCheck: New page: Asset Save: BallPawn
+[2023.12.07-17.40.48:061][168]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BallPawn.BallPawn
+[2023.12.07-17.41.06:937][297]BlueprintLog: New page: Compile BallPawn
+[2023.12.07-17.41.06:988][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.12.07-17.41.08:325][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BallPawn" FILE="G:/GameDev/RollHero/Content/Blueprints/BallPawn.uasset" SILENT=true
+[2023.12.07-17.41.08:333][365]LogSavePackage: Moving output files for package: /Game/Blueprints/BallPawn
+[2023.12.07-17.41.08:333][365]LogSavePackage: Moving 'G:/GameDev/RollHero/Saved/BallPawn2BA4517F4C1BFB7FA0B97E974A03D024.tmp' to 'G:/GameDev/RollHero/Content/Blueprints/BallPawn.uasset'
+[2023.12.07-17.41.08:345][365]AssetCheck: New page: Asset Save: BallPawn
+[2023.12.07-17.41.08:345][365]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BallPawn.BallPawn
+[2023.12.07-17.41.28:107][549]LogViewport: Scene viewport resized to 316x337, mode Windowed.
+[2023.12.07-17.41.29:596][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.12.07-17.41.31:179][625]LogSlate: Window 'Save Content' being destroyed
+[2023.12.07-17.41.31:308][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myMaps/level_1" FILE="G:/GameDev/RollHero/Content/myMaps/level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.07-17.41.31:335][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.12.07-17.41.31:346][625]LogSavePackage: Moving output files for package: /Game/myMaps/level_1
+[2023.12.07-17.41.31:346][625]LogSavePackage: Moving 'G:/GameDev/RollHero/Saved/level_1937FDC0243D52A9FB160218A9F812937.tmp' to 'G:/GameDev/RollHero/Content/myMaps/level_1.umap'
+[2023.12.07-17.41.31:353][625]LogFileHelpers: No new changes to save!
+[2023.12.07-17.41.31:353][625]LogFileHelpers: Saving map 'level_1' took 0.047
+[2023.12.07-17.41.31:368][625]AssetCheck: New page: Asset Save: level_1
+[2023.12.07-17.41.31:368][625]LogContentValidation: Display: Validating World /Game/myMaps/level_1.level_1
