@@ -1210,3 +1210,94 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.12.10-13.52.14:240][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.12.10-13.52.14:243][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
 [2023.12.10-13.52.14:281][344]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.12.10-13.54.51:106][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.12.10-13.54.51:110][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myMaps/level_1" FILE="G:/GameDev/RollHero/Saved/Autosaves/Game/myMaps/level_1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.12.10-13.54.51:123][137]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/myMaps/level_1_Auto4
+[2023.12.10-13.54.51:124][137]LogSavePackage: Moving 'G:/GameDev/RollHero/Saved/level_1_Auto49AFE4AB4470BCD73FC732090EBFA9D97.tmp' to 'G:/GameDev/RollHero/Saved/Autosaves/Game/myMaps/level_1_Auto4.umap'
+[2023.12.10-13.54.51:125][137]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/myMaps/level_1' took 0.057
+[2023.12.10-13.54.51:125][137]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2023.12.10-13.54.51:126][137]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Coin] ([2] browsable assets)...
+[2023.12.10-13.54.51:126][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Coin]
+[2023.12.10-13.54.51:126][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Coin" FILE="G:/GameDev/RollHero/Saved/Autosaves/Game/Blueprints/Coin_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.12.10-13.54.51:128][137]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Coin_Auto4
+[2023.12.10-13.54.51:128][137]LogSavePackage: Moving 'G:/GameDev/RollHero/Saved/Coin_Auto4D9BA3DEF4B1F0CA1AB8501A379AF0744.tmp' to 'G:/GameDev/RollHero/Saved/Autosaves/Game/Blueprints/Coin_Auto4.uasset'
+[2023.12.10-13.54.51:129][137]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Gear] ([2] browsable assets)...
+[2023.12.10-13.54.51:129][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Gear]
+[2023.12.10-13.54.51:129][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gear" FILE="G:/GameDev/RollHero/Saved/Autosaves/Game/Blueprints/Gear_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.12.10-13.54.51:132][137]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Gear_Auto4
+[2023.12.10-13.54.51:132][137]LogSavePackage: Moving 'G:/GameDev/RollHero/Saved/Gear_Auto4FCA0FC71456B661CE96201892F3F769A.tmp' to 'G:/GameDev/RollHero/Saved/Autosaves/Game/Blueprints/Gear_Auto4.uasset'
+[2023.12.10-13.54.51:132][137]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.12.10-13.58.10:142][753]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 G:/GameDev/Assets/Hollirood.ttf)
+[2023.12.10-13.58.15:353][753]LogSlate: Window 'Font Face Import Options' being destroyed
+[2023.12.10-13.58.15:355][753]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2023.12.10-13.58.15:358][753]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2023.12.10-13.58.15:359][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.10-13.58.15:361][753]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.12.10-13.58.15:374][753]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.12.10-13.58.15:376][753]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.12.10-13.58.15:377][753]LogSlate: Took 0.000091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.12.10-13.58.15:377][753]LogSlate: Took 0.000085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.10-13.58.37:659][ 81]LogViewport: Scene viewport resized to 773x1075, mode Windowed.
+[2023.12.10-13.58.40:440][245]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.12.10-13.58.41:773][324]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.10-13.58.54:582][ 89]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.10-13.58.58:103][299]BlueprintLog: New page: Compile PickupText
+[2023.12.10-13.58.58:174][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.12.10-13.59.00:590][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickups/PickupText" FILE="G:/GameDev/RollHero/Content/Blueprints/Pickups/PickupText.uasset" SILENT=true
+[2023.12.10-13.59.00:593][429]LogSavePackage: Moving output files for package: /Game/Blueprints/Pickups/PickupText
+[2023.12.10-13.59.00:593][429]LogSavePackage: Moving 'G:/GameDev/RollHero/Saved/PickupText60AED37A4B8C437335B97C89C92D2190.tmp' to 'G:/GameDev/RollHero/Content/Blueprints/Pickups/PickupText.uasset'
+[2023.12.10-13.59.00:605][429]AssetCheck: New page: Asset Save: PickupText
+[2023.12.10-13.59.00:605][429]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Pickups/PickupText.PickupText
+[2023.12.10-13.59.02:059][510]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.10-13.59.02:064][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.10-13.59.02:064][510]PIE: New page: PIE session: level_1 (10 Dec 2023, 13:59:02)
+[2023.12.10-13.59.02:065][510]LogPlayLevel: Creating play world package: /Game/myMaps/UEDPIE_0_level_1
+[2023.12.10-13.59.02:069][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004481s)
+[2023.12.10-13.59.02:069][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myMaps/level_1.level_1 to /Game/myMaps/UEDPIE_0_level_1.level_1 (0.004552s)
+[2023.12.10-13.59.02:069][510]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.12.10-13.59.02:069][510]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.10-13.59.02:069][510]LogAIModule: Creating AISystem for world level_1
+[2023.12.10-13.59.02:070][510]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2023.12.10-13.59.02:108][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.12.10-13.59.02:110][510]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.12.10-13.59.02:110][510]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.10-13.59.02:110][510]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.10-13.59.02:110][510]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.10-13.59.02:110][510]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.10-13.59.02:110][510]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.10-13.59.02:110][510]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.10-13.59.02:110][510]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.10-13.59.02:110][510]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.10-13.59.02:110][510]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.10-13.59.02:110][510]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.10-13.59.02:110][510]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.10-13.59.02:112][510]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.10-13.59.02:140][510]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2023.12.10-13.59.02:141][510]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.10-13.59.02:141][510]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.10-13.59.02:141][510]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.10-13.59.02:141][510]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.12.10-13.59.02:141][510]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.12.10-13.59.02:143][510]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.12.10-13.59.02:143][510]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.12.10-13.59.02:143][510]LogInit: FAudioDevice initialized.
+[2023.12.10-13.59.02:143][510]LogAudio: Display: Audio Device (ID: 7) registered with world 'level_1'.
+[2023.12.10-13.59.02:155][510]LogLoad: Game class is 'GameModeBase'
+[2023.12.10-13.59.02:156][510]LogWorld: Bringing World /Game/myMaps/UEDPIE_0_level_1.level_1 up for play (max tick rate 60) at 2023.12.10-13.59.02
+[2023.12.10-13.59.02:156][510]LogWorld: Bringing up level for play took: 0.000973
+[2023.12.10-13.59.02:158][510]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.12.10-13.59.02:159][510]PIE: Server logged in
+[2023.12.10-13.59.02:159][510]PIE: Play in editor total start time 0.096 seconds.
+[2023.12.10-13.59.02:172][510]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.12.10-13.59.15:306][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.10-13.59.15:306][295]LogWorld: BeginTearingDown for /Game/myMaps/UEDPIE_0_level_1
+[2023.12.10-13.59.15:306][295]LogWorld: UWorld::CleanupWorld for level_1, bSessionEnded=true, bCleanupResources=true
+[2023.12.10-13.59.15:306][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.10-13.59.15:323][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.10-13.59.15:329][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.10-13.59.15:364][295]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.10-13.59.15:364][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.12.10-13.59.15:365][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.12.10-13.59.15:369][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.10-13.59.15:372][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.12.10-13.59.15:408][296]LogPlayLevel: Display: Destroying online subsystem :Context_15
