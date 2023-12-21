@@ -1598,3 +1598,222 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.12.21-14.33.57:055][949]LogFileHelpers: Saving map 'level_3' took 0.043
 [2023.12.21-14.33.57:068][949]AssetCheck: New page: Asset Save: level_3
 [2023.12.21-14.33.57:068][949]LogContentValidation: Display: Validating World /Game/myMaps/level_3.level_3
+[2023.12.21-14.43.13:132][452]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300 should be resaved to improve async compilation performance.
+[2023.12.21-14.43.57:024][ 79]BlueprintLog: New page: Compile DoorButton
+[2023.12.21-14.43.57:094][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.12.21-14.43.57:796][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorButton" FILE="G:/GameDev/RollHero/Content/Blueprints/DoorButton.uasset" SILENT=true
+[2023.12.21-14.43.57:803][110]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorButton
+[2023.12.21-14.43.57:803][110]LogSavePackage: Moving 'G:/GameDev/RollHero/Saved/DoorButtonA0FC472547553C3F949872BF0B7A5B07.tmp' to 'G:/GameDev/RollHero/Content/Blueprints/DoorButton.uasset'
+[2023.12.21-14.43.57:813][110]AssetCheck: New page: Asset Save: DoorButton
+[2023.12.21-14.43.57:813][110]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/DoorButton.DoorButton
+[2023.12.21-14.44.04:463][498]Cmd: TRANSACTION UNDO
+[2023.12.21-14.44.04:463][498]LogEditorTransaction: Undo Move Elements
+[2023.12.21-14.44.07:347][658]Cmd: TRANSACTION UNDO
+[2023.12.21-14.44.07:347][658]LogEditorTransaction: Undo Move Elements
+[2023.12.21-14.47.55:324][750]BlueprintLog: New page: Compile DoorButton
+[2023.12.21-14.47.55:433][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.12.21-14.47.56:482][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorButton" FILE="G:/GameDev/RollHero/Content/Blueprints/DoorButton.uasset" SILENT=true
+[2023.12.21-14.47.56:489][802]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorButton
+[2023.12.21-14.47.56:489][802]LogSavePackage: Moving 'G:/GameDev/RollHero/Saved/DoorButton806C7B43458B5ED98DEA56947E66FCFB.tmp' to 'G:/GameDev/RollHero/Content/Blueprints/DoorButton.uasset'
+[2023.12.21-14.47.56:501][802]AssetCheck: New page: Asset Save: DoorButton
+[2023.12.21-14.47.56:501][802]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/DoorButton.DoorButton
+[2023.12.21-14.47.58:023][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.12.21-14.47.58:025][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myMaps/level_3" FILE="G:/GameDev/RollHero/Saved/Autosaves/Game/myMaps/level_3_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.12.21-14.47.58:031][891]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/myMaps/level_3_Auto4
+[2023.12.21-14.47.58:031][891]LogSavePackage: Moving 'G:/GameDev/RollHero/Saved/level_3_Auto4A9E3B71C41DE0BD85DCD08A14CECF4C8.tmp' to 'G:/GameDev/RollHero/Saved/Autosaves/Game/myMaps/level_3_Auto4.umap'
+[2023.12.21-14.47.58:033][891]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/myMaps/level_3' took 0.038
+[2023.12.21-14.47.58:033][891]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2023.12.21-14.49.19:734][784]LogSlate: Took 0.001162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.12.21-14.50.30:656][ 10]LogEditorTransaction: Undo Align Top
+[2023.12.21-14.51.42:743][862]BlueprintLog: New page: Compile DoorButton
+[2023.12.21-14.51.42:803][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.12.21-14.51.44:041][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorButton" FILE="G:/GameDev/RollHero/Content/Blueprints/DoorButton.uasset" SILENT=true
+[2023.12.21-14.51.44:050][922]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorButton
+[2023.12.21-14.51.44:051][922]LogSavePackage: Moving 'G:/GameDev/RollHero/Saved/DoorButton291E9AF34D630C74FA06748F029EF514.tmp' to 'G:/GameDev/RollHero/Content/Blueprints/DoorButton.uasset'
+[2023.12.21-14.51.44:063][922]AssetCheck: New page: Asset Save: DoorButton
+[2023.12.21-14.51.44:063][922]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/DoorButton.DoorButton
+[2023.12.21-14.51.57:542][628]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.21-14.51.57:547][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.21-14.51.57:547][628]PIE: New page: PIE session: level_3 (21 Dec 2023, 14:51:57)
+[2023.12.21-14.51.57:547][628]LogPlayLevel: Creating play world package: /Game/myMaps/UEDPIE_0_level_3
+[2023.12.21-14.51.57:549][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001793s)
+[2023.12.21-14.51.57:549][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myMaps/level_3.level_3 to /Game/myMaps/UEDPIE_0_level_3.level_3 (0.001848s)
+[2023.12.21-14.51.57:549][628]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.12.21-14.51.57:549][628]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.21-14.51.57:549][628]LogAIModule: Creating AISystem for world level_3
+[2023.12.21-14.51.57:549][628]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2023.12.21-14.51.57:576][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.21-14.51.57:580][628]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.12.21-14.51.57:580][628]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.21-14.51.57:580][628]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.21-14.51.57:580][628]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.21-14.51.57:580][628]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.21-14.51.57:580][628]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.21-14.51.57:580][628]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.21-14.51.57:580][628]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.21-14.51.57:580][628]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.21-14.51.57:580][628]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.21-14.51.57:580][628]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.21-14.51.57:580][628]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.21-14.51.57:582][628]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.21-14.51.57:608][628]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2023.12.21-14.51.57:608][628]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.21-14.51.57:608][628]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.21-14.51.57:608][628]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.21-14.51.57:609][628]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.12.21-14.51.57:609][628]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.12.21-14.51.57:610][628]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.12.21-14.51.57:610][628]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.12.21-14.51.57:610][628]LogInit: FAudioDevice initialized.
+[2023.12.21-14.51.57:610][628]LogAudio: Display: Audio Device (ID: 12) registered with world 'level_3'.
+[2023.12.21-14.51.57:622][628]LogLoad: Game class is 'RollingGameMode_C'
+[2023.12.21-14.51.57:623][628]LogWorld: Bringing World /Game/myMaps/UEDPIE_0_level_3.level_3 up for play (max tick rate 60) at 2023.12.21-14.51.57
+[2023.12.21-14.51.57:623][628]LogWorld: Bringing up level for play took: 0.000591
+[2023.12.21-14.51.57:624][628]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.12.21-14.51.57:625][628]PIE: Server logged in
+[2023.12.21-14.51.57:626][628]PIE: Play in editor total start time 0.079 seconds.
+[2023.12.21-14.52.07:900][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-14.52.07:900][240]LogWorld: BeginTearingDown for /Game/myMaps/UEDPIE_0_level_3
+[2023.12.21-14.52.07:900][240]LogWorld: UWorld::CleanupWorld for level_3, bSessionEnded=true, bCleanupResources=true
+[2023.12.21-14.52.07:900][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-14.52.07:915][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.21-14.52.07:921][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-14.52.07:949][240]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.21-14.52.07:949][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.12.21-14.52.07:951][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.12.21-14.52.07:953][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-14.52.07:956][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.12.21-14.52.07:993][241]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.12.21-14.52.19:627][829]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.21-14.52.19:632][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.21-14.52.19:632][829]PIE: New page: PIE session: level_3 (21 Dec 2023, 14:52:19)
+[2023.12.21-14.52.19:632][829]LogPlayLevel: Creating play world package: /Game/myMaps/UEDPIE_0_level_3
+[2023.12.21-14.52.19:633][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001712s)
+[2023.12.21-14.52.19:633][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myMaps/level_3.level_3 to /Game/myMaps/UEDPIE_0_level_3.level_3 (0.001770s)
+[2023.12.21-14.52.19:633][829]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.12.21-14.52.19:634][829]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.21-14.52.19:634][829]LogAIModule: Creating AISystem for world level_3
+[2023.12.21-14.52.19:634][829]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2023.12.21-14.52.19:662][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.12.21-14.52.19:665][829]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.12.21-14.52.19:665][829]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.21-14.52.19:665][829]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.21-14.52.19:665][829]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.21-14.52.19:665][829]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.21-14.52.19:665][829]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.21-14.52.19:665][829]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.21-14.52.19:665][829]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.21-14.52.19:665][829]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.21-14.52.19:666][829]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.21-14.52.19:666][829]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.21-14.52.19:666][829]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.21-14.52.19:667][829]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.21-14.52.19:695][829]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2023.12.21-14.52.19:695][829]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.21-14.52.19:695][829]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.21-14.52.19:695][829]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.21-14.52.19:695][829]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.12.21-14.52.19:695][829]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.12.21-14.52.19:697][829]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.12.21-14.52.19:697][829]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.12.21-14.52.19:697][829]LogInit: FAudioDevice initialized.
+[2023.12.21-14.52.19:697][829]LogAudio: Display: Audio Device (ID: 13) registered with world 'level_3'.
+[2023.12.21-14.52.19:707][829]LogLoad: Game class is 'RollingGameMode_C'
+[2023.12.21-14.52.19:708][829]LogWorld: Bringing World /Game/myMaps/UEDPIE_0_level_3.level_3 up for play (max tick rate 60) at 2023.12.21-14.52.19
+[2023.12.21-14.52.19:708][829]LogWorld: Bringing up level for play took: 0.000599
+[2023.12.21-14.52.19:709][829]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.12.21-14.52.19:710][829]PIE: Server logged in
+[2023.12.21-14.52.19:711][829]PIE: Play in editor total start time 0.079 seconds.
+[2023.12.21-14.52.46:570][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-14.52.46:570][437]LogWorld: BeginTearingDown for /Game/myMaps/UEDPIE_0_level_3
+[2023.12.21-14.52.46:570][437]LogWorld: UWorld::CleanupWorld for level_3, bSessionEnded=true, bCleanupResources=true
+[2023.12.21-14.52.46:570][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-14.52.46:579][437]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.21-14.52.46:583][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-14.52.46:611][437]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.21-14.52.46:611][437]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.12.21-14.52.46:613][437]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.12.21-14.52.46:616][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-14.52.46:617][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.12.21-14.52.46:653][438]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.12.21-15.01.14:532][498]LogDerivedDataCache: C:/Users/Oberon Day-West/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.513 and deleted 0 file(s) with total size 0 MiB.
+[2023.12.21-15.02.26:125][706]BlueprintLog: New page: Compile DoorButton
+[2023.12.21-15.02.26:183][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.12.21-15.02.26:926][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorButton" FILE="G:/GameDev/RollHero/Content/Blueprints/DoorButton.uasset" SILENT=true
+[2023.12.21-15.02.26:936][737]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorButton
+[2023.12.21-15.02.26:936][737]LogSavePackage: Moving 'G:/GameDev/RollHero/Saved/DoorButtonF2D4946746BFC7B34D95EFAED0CF4F1B.tmp' to 'G:/GameDev/RollHero/Content/Blueprints/DoorButton.uasset'
+[2023.12.21-15.02.26:948][737]AssetCheck: New page: Asset Save: DoorButton
+[2023.12.21-15.02.26:948][737]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/DoorButton.DoorButton
+[2023.12.21-15.02.54:180][364]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.12.21-15.02.54:188][364]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.21-15.03.09:524][279]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.12.21-15.03.09:532][279]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.21-15.03.41:468][729]BlueprintLog: New page: Compile DoorButton
+[2023.12.21-15.03.41:524][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.12.21-15.03.42:114][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DoorButton" FILE="G:/GameDev/RollHero/Content/Blueprints/DoorButton.uasset" SILENT=true
+[2023.12.21-15.03.42:123][753]LogSavePackage: Moving output files for package: /Game/Blueprints/DoorButton
+[2023.12.21-15.03.42:123][753]LogSavePackage: Moving 'G:/GameDev/RollHero/Saved/DoorButton49ACE27A485817EC97898E994945A1A2.tmp' to 'G:/GameDev/RollHero/Content/Blueprints/DoorButton.uasset'
+[2023.12.21-15.03.42:135][753]AssetCheck: New page: Asset Save: DoorButton
+[2023.12.21-15.03.42:135][753]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/DoorButton.DoorButton
+[2023.12.21-15.03.49:463][184]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.21-15.03.49:468][184]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.21-15.03.49:468][184]PIE: New page: PIE session: level_3 (21 Dec 2023, 15:03:49)
+[2023.12.21-15.03.49:500][184]LogPlayLevel: Creating play world package: /Game/myMaps/UEDPIE_0_level_3
+[2023.12.21-15.03.49:502][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001891s)
+[2023.12.21-15.03.49:502][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myMaps/level_3.level_3 to /Game/myMaps/UEDPIE_0_level_3.level_3 (0.001993s)
+[2023.12.21-15.03.49:502][184]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.12.21-15.03.49:502][184]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.21-15.03.49:502][184]LogAIModule: Creating AISystem for world level_3
+[2023.12.21-15.03.49:503][184]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2023.12.21-15.03.49:530][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.12.21-15.03.49:533][184]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.12.21-15.03.49:533][184]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.21-15.03.49:533][184]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.21-15.03.49:533][184]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.21-15.03.49:533][184]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.21-15.03.49:533][184]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.21-15.03.49:533][184]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.21-15.03.49:533][184]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.21-15.03.49:533][184]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.21-15.03.49:533][184]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.21-15.03.49:533][184]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.21-15.03.49:533][184]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.21-15.03.49:535][184]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.21-15.03.49:563][184]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2023.12.21-15.03.49:563][184]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.21-15.03.49:563][184]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.21-15.03.49:563][184]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.21-15.03.49:564][184]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.12.21-15.03.49:564][184]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.12.21-15.03.49:565][184]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.12.21-15.03.49:565][184]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.12.21-15.03.49:565][184]LogInit: FAudioDevice initialized.
+[2023.12.21-15.03.49:565][184]LogAudio: Display: Audio Device (ID: 14) registered with world 'level_3'.
+[2023.12.21-15.03.49:577][184]LogLoad: Game class is 'RollingGameMode_C'
+[2023.12.21-15.03.49:577][184]LogWorld: Bringing World /Game/myMaps/UEDPIE_0_level_3.level_3 up for play (max tick rate 60) at 2023.12.21-15.03.49
+[2023.12.21-15.03.49:577][184]LogWorld: Bringing up level for play took: 0.000610
+[2023.12.21-15.03.49:579][184]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.12.21-15.03.49:580][184]PIE: Server logged in
+[2023.12.21-15.03.49:581][184]PIE: Play in editor total start time 0.114 seconds.
+[2023.12.21-15.04.02:770][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-15.04.02:770][970]LogWorld: BeginTearingDown for /Game/myMaps/UEDPIE_0_level_3
+[2023.12.21-15.04.02:770][970]LogWorld: UWorld::CleanupWorld for level_3, bSessionEnded=true, bCleanupResources=true
+[2023.12.21-15.04.02:770][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-15.04.02:789][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.21-15.04.02:793][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-15.04.02:819][970]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.21-15.04.02:819][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.12.21-15.04.02:820][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.12.21-15.04.02:823][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-15.04.02:825][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.12.21-15.04.02:861][971]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.12.21-15.04.33:053][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.12.21-15.04.34:280][741]LogSlate: Window 'Save Content' being destroyed
+[2023.12.21-15.04.34:418][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myMaps/level_3" FILE="G:/GameDev/RollHero/Content/myMaps/level_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.21-15.04.34:445][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.12.21-15.04.34:451][741]LogSavePackage: Moving output files for package: /Game/myMaps/level_3
+[2023.12.21-15.04.34:451][741]LogSavePackage: Moving 'G:/GameDev/RollHero/Saved/level_363FBB7C744ADCEDE8BFD69B0EC0C27DC.tmp' to 'G:/GameDev/RollHero/Content/myMaps/level_3.umap'
+[2023.12.21-15.04.34:459][741]LogFileHelpers: No new changes to save!
+[2023.12.21-15.04.34:459][741]LogFileHelpers: Saving map 'level_3' took 0.041
+[2023.12.21-15.04.34:471][741]AssetCheck: New page: Asset Save: level_3
+[2023.12.21-15.04.34:471][741]LogContentValidation: Display: Validating World /Game/myMaps/level_3.level_3
